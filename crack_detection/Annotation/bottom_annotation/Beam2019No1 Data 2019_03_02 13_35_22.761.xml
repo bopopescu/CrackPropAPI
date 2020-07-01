@@ -1,7 +1,7 @@
 <annotation>
 	<folder>compressed_data</folder>
-	<filename>Beam2019No1 Data 2019_03_02 11_12_49.523.jpg</filename>
-	<path>/Users/yopiprabowooktiovan/Desktop/object_detection_api/crack_detection/Images/bottom/compressed_data/Beam2019No1 Data 2019_03_02 11_12_49.523.jpg</path>
+	<filename>Beam2019No1 Data 2019_03_02 13_35_22.761.jpg</filename>
+	<path>/Users/yopiprabowooktiovan/Desktop/object_detection_api/crack_detection/Images/bottom/compressed_data/Beam2019No1 Data 2019_03_02 13_35_22.761.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,99 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Shear Crack</name>
+		<name>Bond Crack</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>528</xmin>
-			<ymin>718</ymin>
-			<xmax>570</xmax>
-			<ymax>756</ymax>
+			<xmin>310</xmin>
+			<ymin>788</ymin>
+			<xmax>337</xmax>
+			<ymax>841</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bond Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>321</xmin>
+			<ymin>756</ymin>
+			<xmax>339</xmax>
+			<ymax>791</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bond Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>349</xmin>
+			<ymin>659</ymin>
+			<xmax>365</xmax>
+			<ymax>698</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bond Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>360</xmin>
+			<ymin>625</ymin>
+			<xmax>377</xmax>
+			<ymax>653</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Flexure Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>287</xmin>
+			<ymin>726</ymin>
+			<xmax>325</xmax>
+			<ymax>745</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Flexure Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>257</xmin>
+			<ymin>917</ymin>
+			<xmax>289</xmax>
+			<ymax>940</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Flexure Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>253</xmin>
+			<ymin>1186</ymin>
+			<xmax>296</xmax>
+			<ymax>1204</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Flexure Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>294</xmin>
+			<ymin>1195</ymin>
+			<xmax>359</xmax>
+			<ymax>1217</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,22 +113,82 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>570</xmin>
-			<ymin>760</ymin>
-			<xmax>595</xmax>
-			<ymax>796</ymax>
+			<xmin>352</xmin>
+			<ymin>1237</ymin>
+			<xmax>380</xmax>
+			<ymax>1267</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Shear Crack</name>
+		<name>Flexure Crack</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>586</xmin>
-			<ymin>793</ymin>
-			<xmax>614</xmax>
-			<ymax>832</ymax>
+			<xmin>380</xmin>
+			<ymin>1199</ymin>
+			<xmax>393</xmax>
+			<ymax>1229</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Flexure Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>387</xmin>
+			<ymin>1173</ymin>
+			<xmax>410</xmax>
+			<ymax>1199</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bond Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>422</xmin>
+			<ymin>1072</ymin>
+			<xmax>438</xmax>
+			<ymax>1117</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bond Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>419</xmin>
+			<ymin>1028</ymin>
+			<xmax>444</xmax>
+			<ymax>1075</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bond Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>419</xmin>
+			<ymin>991</ymin>
+			<xmax>446</xmax>
+			<ymax>1031</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bond Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>422</xmin>
+			<ymin>953</ymin>
+			<xmax>439</xmax>
+			<ymax>989</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -54,165 +198,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>376</xmin>
-			<ymin>796</ymin>
-			<xmax>410</xmax>
-			<ymax>814</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>411</xmin>
-			<ymin>814</ymin>
-			<xmax>450</xmax>
-			<ymax>840</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>456</xmin>
-			<ymin>850</ymin>
-			<xmax>504</xmax>
-			<ymax>875</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>766</xmin>
-			<ymin>704</ymin>
-			<xmax>786</xmax>
-			<ymax>734</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>780</xmin>
-			<ymin>674</ymin>
-			<xmax>795</xmax>
-			<ymax>697</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>434</xmin>
-			<ymin>762</ymin>
-			<xmax>447</xmax>
-			<ymax>794</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>446</xmin>
-			<ymin>732</ymin>
-			<xmax>462</xmax>
-			<ymax>761</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>452</xmin>
-			<ymin>703</ymin>
-			<xmax>478</xmax>
-			<ymax>736</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>404</xmin>
-			<ymin>849</ymin>
-			<xmax>418</xmax>
-			<ymax>878</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>367</xmin>
-			<ymin>815</ymin>
-			<xmax>394</xmax>
-			<ymax>858</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>323</xmin>
-			<ymin>767</ymin>
-			<xmax>358</xmax>
-			<ymax>802</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>290</xmin>
-			<ymin>685</ymin>
-			<xmax>310</xmax>
-			<ymax>715</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>302</xmin>
-			<ymin>722</ymin>
-			<xmax>323</xmax>
-			<ymax>751</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>393</xmin>
-			<ymin>920</ymin>
-			<xmax>415</xmax>
-			<ymax>949</ymax>
+			<ymin>904</ymin>
+			<xmax>404</xmax>
+			<ymax>941</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -221,46 +209,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>407</xmin>
-			<ymin>954</ymin>
-			<xmax>428</xmax>
-			<ymax>999</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Bond Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>415</xmin>
-			<ymin>1000</ymin>
-			<xmax>427</xmax>
-			<ymax>1042</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Bond Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>410</xmin>
-			<ymin>1043</ymin>
-			<xmax>426</xmax>
-			<ymax>1088</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Bond Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>414</xmin>
-			<ymin>1085</ymin>
-			<xmax>429</xmax>
-			<ymax>1126</ymax>
+			<xmin>365</xmin>
+			<ymin>945</ymin>
+			<xmax>381</xmax>
+			<ymax>969</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -269,177 +221,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>374</xmin>
-			<ymin>1193</ymin>
-			<xmax>393</xmax>
-			<ymax>1226</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>393</xmin>
-			<ymin>1162</ymin>
-			<xmax>410</xmax>
-			<ymax>1190</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>404</xmin>
-			<ymin>1134</ymin>
-			<xmax>426</xmax>
-			<ymax>1158</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>435</xmin>
-			<ymin>1083</ymin>
-			<xmax>448</xmax>
-			<ymax>1110</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>441</xmin>
-			<ymin>1064</ymin>
-			<xmax>474</xmax>
-			<ymax>1083</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>438</xmin>
-			<ymin>954</ymin>
-			<xmax>451</xmax>
-			<ymax>993</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>450</xmin>
-			<ymin>1002</ymin>
-			<xmax>470</xmax>
-			<ymax>1023</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>466</xmin>
-			<ymin>1019</ymin>
-			<xmax>482</xmax>
-			<ymax>1039</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>389</xmin>
-			<ymin>584</ymin>
-			<xmax>428</xmax>
-			<ymax>616</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>429</xmin>
-			<ymin>618</ymin>
-			<xmax>465</xmax>
-			<ymax>639</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Flexure Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>363</xmin>
-			<ymin>648</ymin>
-			<xmax>421</xmax>
-			<ymax>669</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>620</xmin>
-			<ymin>887</ymin>
-			<xmax>655</xmax>
-			<ymax>903</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>664</xmin>
-			<ymin>848</ymin>
-			<xmax>681</xmax>
-			<ymax>881</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>680</xmin>
-			<ymin>817</ymin>
-			<xmax>697</xmax>
-			<ymax>851</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>691</xmin>
-			<ymin>792</ymin>
-			<xmax>714</xmax>
+			<xmin>436</xmin>
+			<ymin>781</ymin>
+			<xmax>453</xmax>
 			<ymax>815</ymax>
 		</bndbox>
 	</object>
@@ -449,10 +233,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>713</xmin>
-			<ymin>760</ymin>
-			<xmax>726</xmax>
-			<ymax>790</ymax>
+			<xmin>446</xmin>
+			<ymin>748</ymin>
+			<xmax>471</xmax>
+			<ymax>784</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -461,10 +245,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>729</xmin>
-			<ymin>738</ymin>
-			<xmax>766</xmax>
-			<ymax>753</ymax>
+			<xmin>463</xmin>
+			<ymin>710</ymin>
+			<xmax>494</xmax>
+			<ymax>745</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -473,34 +257,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>574</xmin>
-			<ymin>912</ymin>
-			<xmax>597</xmax>
-			<ymax>946</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>467</xmin>
-			<ymin>970</ymin>
-			<xmax>489</xmax>
-			<ymax>995</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>492</xmin>
-			<ymin>1000</ymin>
+			<xmin>489</xmin>
+			<ymin>682</ymin>
 			<xmax>519</xmax>
-			<ymax>1024</ymax>
+			<ymax>706</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Flexure Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>391</xmin>
+			<ymin>647</ymin>
+			<xmax>434</xmax>
+			<ymax>667</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Flexure Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>255</xmin>
+			<ymin>669</ymin>
+			<xmax>308</xmax>
+			<ymax>695</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -509,10 +293,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>528</xmin>
-			<ymin>1029</ymin>
-			<xmax>554</xmax>
-			<ymax>1054</ymax>
+			<xmin>348</xmin>
+			<ymin>738</ymin>
+			<xmax>385</xmax>
+			<ymax>775</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -521,22 +305,130 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>406</xmin>
-			<ymin>1232</ymin>
-			<xmax>424</xmax>
-			<ymax>1254</ymax>
+			<xmin>438</xmin>
+			<ymin>818</ymin>
+			<xmax>476</xmax>
+			<ymax>845</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>402</xmin>
+			<ymin>791</ymin>
+			<xmax>429</xmax>
+			<ymax>819</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>383</xmin>
+			<ymin>829</ymin>
+			<xmax>413</xmax>
+			<ymax>861</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bond Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>330</xmin>
+			<ymin>892</ymin>
+			<xmax>348</xmax>
+			<ymax>938</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bond Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>311</xmin>
+			<ymin>961</ymin>
+			<xmax>331</xmax>
+			<ymax>1009</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bond Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>303</xmin>
+			<ymin>1012</ymin>
+			<xmax>320</xmax>
+			<ymax>1057</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bond Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>274</xmin>
+			<ymin>1061</ymin>
+			<xmax>303</xmax>
+			<ymax>1104</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Flexure Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>310</xmin>
+			<ymin>1085</ymin>
+			<xmax>352</xmax>
+			<ymax>1101</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Flexure Crack</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>360</xmin>
-			<ymin>1230</ymin>
-			<xmax>374</xmax>
-			<ymax>1255</ymax>
+			<ymin>1081</ymin>
+			<xmax>388</xmax>
+			<ymax>1095</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Flexure Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>395</xmin>
+			<ymin>1081</ymin>
+			<xmax>424</xmax>
+			<ymax>1102</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Flexure Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>304</xmin>
+			<ymin>1102</ymin>
+			<xmax>349</xmax>
+			<ymax>1118</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -545,10 +437,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>336</xmin>
-			<ymin>1255</ymin>
-			<xmax>358</xmax>
-			<ymax>1275</ymax>
+			<xmin>372</xmin>
+			<ymin>1116</ymin>
+			<xmax>406</xmax>
+			<ymax>1153</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -557,58 +449,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>296</xmin>
-			<ymin>1317</ymin>
-			<xmax>312</xmax>
-			<ymax>1353</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>307</xmin>
-			<ymin>1283</ymin>
-			<xmax>326</xmax>
-			<ymax>1311</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>290</xmin>
-			<ymin>1195</ymin>
-			<xmax>317</xmax>
-			<ymax>1214</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>326</xmin>
-			<ymin>1206</ymin>
-			<xmax>355</xmax>
-			<ymax>1227</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>447</xmin>
-			<ymin>1290</ymin>
-			<xmax>474</xmax>
-			<ymax>1319</ymax>
+			<xmin>418</xmin>
+			<ymin>1158</ymin>
+			<xmax>441</xmax>
+			<ymax>1207</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -618,9 +462,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>417</xmin>
-			<ymin>1258</ymin>
-			<xmax>452</xmax>
-			<ymax>1285</ymax>
+			<ymin>1124</ymin>
+			<xmax>436</xmax>
+			<ymax>1154</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -629,10 +473,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>649</xmin>
-			<ymin>1229</ymin>
-			<xmax>668</xmax>
-			<ymax>1265</ymax>
+			<xmin>439</xmin>
+			<ymin>1075</ymin>
+			<xmax>466</xmax>
+			<ymax>1104</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -641,10 +485,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>671</xmin>
-			<ymin>1210</ymin>
-			<xmax>685</xmax>
-			<ymax>1231</ymax>
+			<xmin>464</xmin>
+			<ymin>1045</ymin>
+			<xmax>488</xmax>
+			<ymax>1080</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -653,10 +497,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>687</xmin>
-			<ymin>1188</ymin>
-			<xmax>710</xmax>
-			<ymax>1205</ymax>
+			<xmin>466</xmin>
+			<ymin>1001</ymin>
+			<xmax>491</xmax>
+			<ymax>1037</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -665,10 +509,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>700</xmin>
-			<ymin>1163</ymin>
-			<xmax>726</xmax>
-			<ymax>1183</ymax>
+			<xmin>479</xmin>
+			<ymin>963</ymin>
+			<xmax>503</xmax>
+			<ymax>992</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -677,10 +521,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>665</xmin>
-			<ymin>1159</ymin>
-			<xmax>686</xmax>
-			<ymax>1195</ymax>
+			<xmin>455</xmin>
+			<ymin>935</ymin>
+			<xmax>483</xmax>
+			<ymax>968</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -689,10 +533,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>653</xmin>
-			<ymin>1131</ymin>
-			<xmax>674</xmax>
-			<ymax>1159</ymax>
+			<xmin>437</xmin>
+			<ymin>909</ymin>
+			<xmax>461</xmax>
+			<ymax>935</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bond Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>479</xmin>
+			<ymin>856</ymin>
+			<xmax>503</xmax>
+			<ymax>896</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -701,10 +557,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>560</xmin>
-			<ymin>1048</ymin>
-			<xmax>586</xmax>
-			<ymax>1074</ymax>
+			<xmin>545</xmin>
+			<ymin>717</ymin>
+			<xmax>584</xmax>
+			<ymax>752</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -714,33 +570,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>589</xmin>
-			<ymin>1063</ymin>
-			<xmax>617</xmax>
-			<ymax>1090</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>624</xmin>
-			<ymin>1090</ymin>
-			<xmax>648</xmax>
-			<ymax>1114</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>668</xmin>
-			<ymin>1102</ymin>
-			<xmax>686</xmax>
-			<ymax>1124</ymax>
+			<ymin>761</ymin>
+			<xmax>610</xmax>
+			<ymax>801</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -749,70 +581,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>686</xmin>
-			<ymin>1090</ymin>
-			<xmax>730</xmax>
-			<ymax>1109</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Flexure Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>726</xmin>
-			<ymin>1082</ymin>
-			<xmax>770</xmax>
-			<ymax>1103</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Flexure Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>782</xmin>
-			<ymin>1097</ymin>
-			<xmax>844</xmax>
-			<ymax>1114</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Flexure Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>765</xmin>
-			<ymin>913</ymin>
-			<xmax>820</xmax>
-			<ymax>941</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Flexure Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>712</xmin>
-			<ymin>915</ymin>
-			<xmax>729</xmax>
-			<ymax>926</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Flexure Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>737</xmin>
-			<ymin>920</ymin>
-			<xmax>764</xmax>
-			<ymax>932</ymax>
+			<xmin>516</xmin>
+			<ymin>912</ymin>
+			<xmax>561</xmax>
+			<ymax>931</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -821,454 +593,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>669</xmin>
-			<ymin>1318</ymin>
-			<xmax>680</xmax>
-			<ymax>1338</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>660</xmin>
-			<ymin>1338</ymin>
-			<xmax>669</xmax>
-			<ymax>1357</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>639</xmin>
-			<ymin>1339</ymin>
-			<xmax>653</xmax>
-			<ymax>1355</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>653</xmin>
-			<ymin>1321</ymin>
-			<xmax>668</xmax>
-			<ymax>1338</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Flexure Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>240</xmin>
-			<ymin>1358</ymin>
-			<xmax>293</xmax>
-			<ymax>1368</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Flexure Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>238</xmin>
-			<ymin>1415</ymin>
-			<xmax>289</xmax>
-			<ymax>1428</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>293</xmin>
-			<ymin>1386</ymin>
-			<xmax>323</xmax>
-			<ymax>1416</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>295</xmin>
-			<ymin>1356</ymin>
-			<xmax>323</xmax>
-			<ymax>1390</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>337</xmin>
-			<ymin>1367</ymin>
-			<xmax>361</xmax>
-			<ymax>1396</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>364</xmin>
-			<ymin>1346</ymin>
-			<xmax>393</xmax>
-			<ymax>1374</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>396</xmin>
-			<ymin>1315</ymin>
-			<xmax>420</xmax>
-			<ymax>1347</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>377</xmin>
-			<ymin>1271</ymin>
-			<xmax>401</xmax>
-			<ymax>1295</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>405</xmin>
-			<ymin>1290</ymin>
-			<xmax>432</xmax>
-			<ymax>1311</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>434</xmin>
-			<ymin>1316</ymin>
-			<xmax>467</xmax>
-			<ymax>1342</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>461</xmin>
-			<ymin>1335</ymin>
-			<xmax>490</xmax>
-			<ymax>1365</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>482</xmin>
-			<ymin>1366</ymin>
-			<xmax>521</xmax>
-			<ymax>1400</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>523</xmin>
-			<ymin>1402</ymin>
-			<xmax>553</xmax>
-			<ymax>1442</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Flexure Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>234</xmin>
-			<ymin>1558</ymin>
-			<xmax>298</xmax>
-			<ymax>1571</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Flexure Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>291</xmin>
-			<ymin>1568</ymin>
-			<xmax>337</xmax>
-			<ymax>1584</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Flexure Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>339</xmin>
-			<ymin>1559</ymin>
-			<xmax>394</xmax>
-			<ymax>1580</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>296</xmin>
-			<ymin>1708</ymin>
-			<xmax>327</xmax>
-			<ymax>1748</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>321</xmin>
-			<ymin>1680</ymin>
-			<xmax>357</xmax>
-			<ymax>1709</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>349</xmin>
-			<ymin>1650</ymin>
-			<xmax>373</xmax>
-			<ymax>1681</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>370</xmin>
-			<ymin>1628</ymin>
-			<xmax>396</xmax>
-			<ymax>1654</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>391</xmin>
-			<ymin>1599</ymin>
-			<xmax>414</xmax>
-			<ymax>1630</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>408</xmin>
-			<ymin>1576</ymin>
-			<xmax>432</xmax>
-			<ymax>1600</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>433</xmin>
-			<ymin>1553</ymin>
-			<xmax>468</xmax>
-			<ymax>1577</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>498</xmin>
-			<ymin>1540</ymin>
-			<xmax>543</xmax>
-			<ymax>1574</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>564</xmin>
-			<ymin>1700</ymin>
-			<xmax>588</xmax>
-			<ymax>1738</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>584</xmin>
-			<ymin>1668</ymin>
-			<xmax>609</xmax>
-			<ymax>1697</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>609</xmin>
-			<ymin>1655</ymin>
-			<xmax>636</xmax>
-			<ymax>1681</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>629</xmin>
-			<ymin>1636</ymin>
-			<xmax>640</xmax>
-			<ymax>1662</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>643</xmin>
-			<ymin>1608</ymin>
-			<xmax>659</xmax>
-			<ymax>1627</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>655</xmin>
-			<ymin>1580</ymin>
-			<xmax>680</xmax>
-			<ymax>1606</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>556</xmin>
-			<ymin>1439</ymin>
-			<xmax>590</xmax>
-			<ymax>1464</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>584</xmin>
-			<ymin>1466</ymin>
-			<xmax>626</xmax>
-			<ymax>1492</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>612</xmin>
-			<ymin>1486</ymin>
-			<xmax>655</xmax>
-			<ymax>1511</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>650</xmin>
-			<ymin>1512</ymin>
-			<xmax>668</xmax>
-			<ymax>1536</ymax>
+			<xmin>617</xmin>
+			<ymin>1125</ymin>
+			<xmax>644</xmax>
+			<ymax>1163</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -1278,93 +606,33 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>592</xmin>
-			<ymin>1561</ymin>
-			<xmax>615</xmax>
-			<ymax>1589</ymax>
+			<ymin>1078</ymin>
+			<xmax>617</xmax>
+			<ymax>1124</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Shear Crack</name>
+		<name>Bond Crack</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>618</xmin>
-			<ymin>1592</ymin>
-			<xmax>638</xmax>
-			<ymax>1626</ymax>
+			<xmin>660</xmin>
+			<ymin>1150</ymin>
+			<xmax>674</xmax>
+			<ymax>1195</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Shear Crack</name>
+		<name>Bond Crack</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>674</xmin>
-			<ymin>1490</ymin>
-			<xmax>690</xmax>
-			<ymax>1526</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>690</xmin>
-			<ymin>1454</ymin>
-			<xmax>705</xmax>
-			<ymax>1483</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>564</xmin>
-			<ymin>1404</ymin>
-			<xmax>578</xmax>
-			<ymax>1432</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>614</xmin>
-			<ymin>1372</ymin>
-			<xmax>646</xmax>
-			<ymax>1395</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>501</xmin>
-			<ymin>1504</ymin>
-			<xmax>521</xmax>
-			<ymax>1537</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Shear Crack</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>519</xmin>
-			<ymin>1472</ymin>
-			<xmax>534</xmax>
-			<ymax>1495</ymax>
+			<xmin>296</xmin>
+			<ymin>1313</ymin>
+			<xmax>319</xmax>
+			<ymax>1353</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -1373,10 +641,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>813</xmin>
-			<ymin>1546</ymin>
-			<xmax>858</xmax>
-			<ymax>1567</ymax>
+			<xmin>243</xmin>
+			<ymin>1411</ymin>
+			<xmax>302</xmax>
+			<ymax>1429</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -1385,10 +653,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>786</xmin>
-			<ymin>1430</ymin>
-			<xmax>860</xmax>
-			<ymax>1445</ymax>
+			<xmin>246</xmin>
+			<ymin>1353</ymin>
+			<xmax>297</xmax>
+			<ymax>1367</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -1397,10 +665,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>809</xmin>
-			<ymin>1398</ymin>
-			<xmax>856</xmax>
-			<ymax>1419</ymax>
+			<xmin>246</xmin>
+			<ymin>1293</ymin>
+			<xmax>308</xmax>
+			<ymax>1303</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -1409,33 +677,69 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>813</xmin>
-			<ymin>1234</ymin>
-			<xmax>853</xmax>
-			<ymax>1251</ymax>
+			<xmin>237</xmin>
+			<ymin>1555</ymin>
+			<xmax>300</xmax>
+			<ymax>1570</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Flexure Crack</name>
+		<name>Shear Crack</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>714</xmin>
-			<ymin>1223</ymin>
-			<xmax>810</xmax>
-			<ymax>1253</ymax>
+			<xmin>303</xmin>
+			<ymin>1701</ymin>
+			<xmax>337</xmax>
+			<ymax>1753</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>Flexure Crack</name>
+		<name>Shear Crack</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>758</xmin>
-			<ymin>1558</ymin>
-			<xmax>811</xmax>
+			<xmin>339</xmin>
+			<ymin>1663</ymin>
+			<xmax>365</xmax>
+			<ymax>1699</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>365</xmin>
+			<ymin>1631</ymin>
+			<xmax>399</xmax>
+			<ymax>1660</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>399</xmin>
+			<ymin>1591</ymin>
+			<xmax>424</xmax>
+			<ymax>1628</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>431</xmin>
+			<ymin>1551</ymin>
+			<xmax>482</xmax>
 			<ymax>1578</ymax>
 		</bndbox>
 	</object>
@@ -1445,22 +749,346 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>244</xmin>
-			<ymin>926</ymin>
-			<xmax>279</xmax>
+			<xmin>307</xmin>
+			<ymin>1567</ymin>
+			<xmax>350</xmax>
+			<ymax>1588</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Flexure Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>365</xmin>
+			<ymin>1566</ymin>
+			<xmax>410</xmax>
+			<ymax>1582</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>566</xmin>
+			<ymin>1686</ymin>
+			<xmax>596</xmax>
+			<ymax>1744</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>603</xmin>
+			<ymin>1661</ymin>
+			<xmax>639</xmax>
+			<ymax>1685</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>296</xmin>
+			<ymin>613</ymin>
+			<xmax>324</xmax>
+			<ymax>647</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Flexure Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>264</xmin>
+			<ymin>581</ymin>
+			<xmax>289</xmax>
+			<ymax>610</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bond Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>361</xmin>
+			<ymin>569</ymin>
+			<xmax>374</xmax>
+			<ymax>610</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>400</xmin>
+			<ymin>571</ymin>
+			<xmax>440</xmax>
+			<ymax>614</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>462</xmin>
+			<ymin>619</ymin>
+			<xmax>500</xmax>
+			<ymax>653</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>518</xmin>
+			<ymin>619</ymin>
+			<xmax>553</xmax>
+			<ymax>645</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>553</xmin>
+			<ymin>587</ymin>
+			<xmax>584</xmax>
+			<ymax>608</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>588</xmin>
+			<ymin>560</ymin>
+			<xmax>612</xmax>
+			<ymax>585</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>580</xmin>
+			<ymin>614</ymin>
+			<xmax>598</xmax>
+			<ymax>645</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>617</xmin>
+			<ymin>565</ymin>
+			<xmax>652</xmax>
+			<ymax>599</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bond Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>741</xmin>
+			<ymin>567</ymin>
+			<xmax>760</xmax>
+			<ymax>617</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bond Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>759</xmin>
+			<ymin>628</ymin>
+			<xmax>781</xmax>
+			<ymax>667</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bond Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>786</xmin>
+			<ymin>690</ymin>
+			<xmax>805</xmax>
+			<ymax>735</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Flexure Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>816</xmin>
+			<ymin>581</ymin>
+			<xmax>859</xmax>
+			<ymax>603</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>582</xmin>
+			<ymin>909</ymin>
+			<xmax>611</xmax>
+			<ymax>945</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>560</xmin>
+			<ymin>946</ymin>
+			<xmax>585</xmax>
+			<ymax>982</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>610</xmin>
+			<ymin>890</ymin>
+			<xmax>651</xmax>
+			<ymax>912</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bond Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>624</xmin>
+			<ymin>839</ymin>
+			<xmax>652</xmax>
+			<ymax>881</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Flexure Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>773</xmin>
+			<ymin>915</ymin>
+			<xmax>829</xmax>
+			<ymax>942</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>657</xmin>
+			<ymin>897</ymin>
+			<xmax>690</xmax>
 			<ymax>943</ymax>
 		</bndbox>
 	</object>
 	<object>
+		<name>Bond Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>688</xmin>
+			<ymin>951</ymin>
+			<xmax>706</xmax>
+			<ymax>995</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>682</xmin>
+			<ymin>830</ymin>
+			<xmax>707</xmax>
+			<ymax>875</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>699</xmin>
+			<ymin>785</ymin>
+			<xmax>732</xmax>
+			<ymax>824</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>731</xmin>
+			<ymin>753</ymin>
+			<xmax>751</xmax>
+			<ymax>782</ymax>
+		</bndbox>
+	</object>
+	<object>
 		<name>Flexure Crack</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>437</xmin>
-			<ymin>662</ymin>
-			<xmax>489</xmax>
-			<ymax>687</ymax>
+			<xmin>752</xmin>
+			<ymin>732</ymin>
+			<xmax>786</xmax>
+			<ymax>755</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -1469,10 +1097,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>538</xmin>
-			<ymin>592</ymin>
-			<xmax>556</xmax>
-			<ymax>618</ymax>
+			<xmin>607</xmin>
+			<ymin>803</ymin>
+			<xmax>630</xmax>
+			<ymax>835</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -1481,10 +1109,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>498</xmin>
-			<ymin>627</ymin>
-			<xmax>535</xmax>
-			<ymax>652</ymax>
+			<xmin>524</xmin>
+			<ymin>1015</ymin>
+			<xmax>557</xmax>
+			<ymax>1047</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -1493,10 +1121,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>564</xmin>
-			<ymin>567</ymin>
-			<xmax>579</xmax>
-			<ymax>612</ymax>
+			<xmin>562</xmin>
+			<ymin>1042</ymin>
+			<xmax>601</xmax>
+			<ymax>1068</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>632</xmin>
+			<ymin>1085</ymin>
+			<xmax>669</xmax>
+			<ymax>1122</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -1505,10 +1145,562 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>799</xmin>
-			<ymin>582</ymin>
-			<xmax>840</xmax>
-			<ymax>598</ymax>
+			<xmin>819</xmin>
+			<ymin>1097</ymin>
+			<xmax>857</xmax>
+			<ymax>1117</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Flexure Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>775</xmin>
+			<ymin>1092</ymin>
+			<xmax>819</xmax>
+			<ymax>1120</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Flexure Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>730</xmin>
+			<ymin>1081</ymin>
+			<xmax>774</xmax>
+			<ymax>1108</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Flexure Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>689</xmin>
+			<ymin>1088</ymin>
+			<xmax>732</xmax>
+			<ymax>1115</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bond Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>678</xmin>
+			<ymin>1153</ymin>
+			<xmax>693</xmax>
+			<ymax>1197</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>659</xmin>
+			<ymin>1231</ymin>
+			<xmax>674</xmax>
+			<ymax>1260</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>368</xmin>
+			<ymin>1335</ymin>
+			<xmax>401</xmax>
+			<ymax>1384</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>401</xmin>
+			<ymin>1311</ymin>
+			<xmax>425</xmax>
+			<ymax>1354</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>385</xmin>
+			<ymin>1270</ymin>
+			<xmax>422</xmax>
+			<ymax>1303</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>439</xmin>
+			<ymin>1311</ymin>
+			<xmax>465</xmax>
+			<ymax>1338</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>367</xmin>
+			<ymin>1383</ymin>
+			<xmax>400</xmax>
+			<ymax>1406</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>410</xmin>
+			<ymin>1418</ymin>
+			<xmax>434</xmax>
+			<ymax>1467</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>295</xmin>
+			<ymin>1387</ymin>
+			<xmax>326</xmax>
+			<ymax>1412</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>556</xmin>
+			<ymin>1512</ymin>
+			<xmax>590</xmax>
+			<ymax>1552</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>501</xmin>
+			<ymin>1495</ymin>
+			<xmax>530</xmax>
+			<ymax>1545</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Flexure Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>507</xmin>
+			<ymin>1549</ymin>
+			<xmax>552</xmax>
+			<ymax>1574</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Flexure Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>557</xmin>
+			<ymin>1557</ymin>
+			<xmax>592</xmax>
+			<ymax>1570</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>496</xmin>
+			<ymin>1370</ymin>
+			<xmax>549</xmax>
+			<ymax>1432</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>431</xmin>
+			<ymin>1467</ymin>
+			<xmax>462</xmax>
+			<ymax>1504</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>566</xmin>
+			<ymin>1400</ymin>
+			<xmax>585</xmax>
+			<ymax>1430</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>644</xmin>
+			<ymin>1329</ymin>
+			<xmax>663</xmax>
+			<ymax>1358</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>664</xmin>
+			<ymin>1309</ymin>
+			<xmax>680</xmax>
+			<ymax>1333</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>596</xmin>
+			<ymin>1465</ymin>
+			<xmax>626</xmax>
+			<ymax>1493</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>563</xmin>
+			<ymin>1438</ymin>
+			<xmax>592</xmax>
+			<ymax>1463</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>635</xmin>
+			<ymin>1493</ymin>
+			<xmax>668</xmax>
+			<ymax>1524</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>678</xmin>
+			<ymin>1497</ymin>
+			<xmax>692</xmax>
+			<ymax>1528</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>689</xmin>
+			<ymin>1467</ymin>
+			<xmax>707</xmax>
+			<ymax>1494</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>710</xmin>
+			<ymin>1425</ymin>
+			<xmax>749</xmax>
+			<ymax>1452</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bond Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>736</xmin>
+			<ymin>1382</ymin>
+			<xmax>765</xmax>
+			<ymax>1420</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>718</xmin>
+			<ymin>1352</ymin>
+			<xmax>746</xmax>
+			<ymax>1379</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>672</xmin>
+			<ymin>1329</ymin>
+			<xmax>705</xmax>
+			<ymax>1359</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>709</xmin>
+			<ymin>1297</ymin>
+			<xmax>734</xmax>
+			<ymax>1318</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>765</xmin>
+			<ymin>1246</ymin>
+			<xmax>796</xmax>
+			<ymax>1282</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>730</xmin>
+			<ymin>1273</ymin>
+			<xmax>764</xmax>
+			<ymax>1288</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>697</xmin>
+			<ymin>1187</ymin>
+			<xmax>720</xmax>
+			<ymax>1210</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>423</xmin>
+			<ymin>1245</ymin>
+			<xmax>445</xmax>
+			<ymax>1276</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>452</xmin>
+			<ymin>1269</ymin>
+			<xmax>470</xmax>
+			<ymax>1306</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>471</xmin>
+			<ymin>1308</ymin>
+			<xmax>493</xmax>
+			<ymax>1351</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>483</xmin>
+			<ymin>1351</ymin>
+			<xmax>500</xmax>
+			<ymax>1377</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Bond Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>430</xmin>
+			<ymin>1213</ymin>
+			<xmax>451</xmax>
+			<ymax>1246</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>598</xmin>
+			<ymin>1565</ymin>
+			<xmax>627</xmax>
+			<ymax>1609</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>629</xmin>
+			<ymin>1606</ymin>
+			<xmax>643</xmax>
+			<ymax>1625</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>661</xmin>
+			<ymin>1659</ymin>
+			<xmax>697</xmax>
+			<ymax>1701</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>641</xmin>
+			<ymin>1639</ymin>
+			<xmax>666</xmax>
+			<ymax>1663</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>646</xmin>
+			<ymin>1604</ymin>
+			<xmax>664</xmax>
+			<ymax>1623</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>661</xmin>
+			<ymin>1582</ymin>
+			<xmax>684</xmax>
+			<ymax>1604</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Shear Crack</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>668</xmin>
+			<ymin>1532</ymin>
+			<xmax>690</xmax>
+			<ymax>1560</ymax>
 		</bndbox>
 	</object>
 </annotation>
